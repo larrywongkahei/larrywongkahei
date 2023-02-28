@@ -3,7 +3,8 @@ I'm a software developer currently enrolled in a professional software developme
 
 ## To get intouch with me
 <a align="center">
-  [![instagram] <img src="https://user-images.githubusercontent.com/108957679/221887694-b4e4f55f-3df7-45e3-a062-aaee5095e034.png" alt="instagram" width="50" height="50" />](https://www.instagram.com/heiyeungyeung520/)</a>
+  [<img src="https://user-images.githubusercontent.com/108957679/221887694-b4e4f55f-3df7-45e3-a062-aaee5095e034.png" alt="instagram" width="50" height="50" />](https://www.instagram.com/heiyeungyeung520/)
+</a>
   
 ## Skills and Technologies
 Programming Languages: Python, JavaScript, Java, HTML (CSS)
