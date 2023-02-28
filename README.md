@@ -7,7 +7,7 @@ Frameworks and Libraries: React, Django, Flask, Node.js, Spring
 DataBase: MongoDB, PostgreSQL, SQLite
 
 <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" width="50" height="50">
-<img src="https://user-images.githubusercontent.com/108957679/221861950-817a5628-a818-40fd-a2a4-58d361cc1b5a.png" alt=Javascript width="50" height="50"><img src="https://user-images.githubusercontent.com/108957679/221863406-f3412859-8da2-49e7-ba3b-f40d68082a3b.png" alt="Flask" width="50" height="50">
+<img src="https://user-images.githubusercontent.com/108957679/221861950-817a5628-a818-40fd-a2a4-58d361cc1b5a.png" alt=Javascript width="50" height="50"><img src="https://user-images.githubusercontent.com/108957679/221864161-124037ee-42c7-4780-80dc-fead8993e215.png" alt="Flask" width="50" height="50">
 
 
 
