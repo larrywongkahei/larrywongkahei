@@ -33,11 +33,11 @@ I'm a software developer currently enrolled in a professional software developme
 
 
 
-# Projects (Here are some of the projects I am working on:
+# Projects
+
+##Here are some of the projects I am working on:
 
 ## The TreeHole
-
-### Brief Introduction
 
 A web application build with React Frontend and Django Backend that allows users to release emotions and stress. 
 
