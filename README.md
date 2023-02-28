@@ -2,7 +2,7 @@
 I'm a software developer currently enrolled in a professional software development course `CodeClan`. I'm passionate about building applications that make a difference in people's lives.
 
 ## To get intouch with me
-<p>
+<p align="center">
 <a href="https://www.instagram.com/heiyeungyeung520/">
 <img src="https://user-images.githubusercontent.com/108957679/221887694-b4e4f55f-3df7-45e3-a062-aaee5095e034.png" alt="instagram" width="50" height="50" />
 </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -40,7 +40,9 @@ I'm a software developer currently enrolled in a professional software developme
 A web application build with React Frontend and Django Backend that allows users to release emotions and stress. 
 
 ### Redirect
+<p align="center">
 [To the page](https://larrywongkahei.github.io/TheTreeHole/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[To the FrontEnd Repo](https://github.com/larrywongkahei/TheTreeHole)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[To the BackEnd repo](https://github.com/larrywongkahei/TheTreeHoleBackend)
+ </p>
 
 
 ### Tools
