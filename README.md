@@ -4,13 +4,35 @@ I'm a software developer currently enrolled in a professional software developme
 ## Skills and Technologies
 Programming Languages: Python, JavaScript, Java
 Frameworks and Libraries: React, Django, Flask, Node.js, Spring
+DataBase: MongoDB, PostgreSQL, SQLite
 
-## Projects
-Here are some of the projects I've worked on:
+## Projects (Here are some of the projects I am working on:
 
-### Project 1 
-A web application built with React and Django that helps users release emotions.`The TreeHole` Press [Me](https://larrywongkahei.github.io/TheTreeHole/) To Redirect.
-* Project 2: A RESTful API built with Node.js and Express that allows users to search for recipes based on dietary restrictions.
+### The TreeHole
+A web application build with React Frontend and Django Backend that allows users to release emotions and stress.
+
+### Tools
+* Javascript
+* React
+* Python
+* Django
+* SQLite
+* Tailwind CSS
+
+## Projects (Here are some of the projects I've worked on:
+
+### Project 1
+(`My Gym App`)
+### Tools :
+* Flask
+* PSQL
+* HTML
+* CSS
+
+### Feature
+
+### Project 2
+A RESTful API built with Node.js and Express that allows users to search for recipes based on dietary restrictions.
 * Project 3: A Java application built with Spring that helps small businesses manage their inventory.
 Get in touch
 Email: [your email address]
