@@ -8,6 +8,9 @@ DataBase: MongoDB, PostgreSQL, SQLite
 
 <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" width="50" height="50">
 <img src="https://user-images.githubusercontent.com/108957679/221861950-817a5628-a818-40fd-a2a4-58d361cc1b5a.png" alt=Javascript width="50" height="50"><img src="https://user-images.githubusercontent.com/108957679/221864279-fa907251-bad8-465a-b682-537dc92940dc.png" alt="Flask" width="50" height="50">
+<img src="https://user-images.githubusercontent.com/108957679/221864451-0cae0932-4ab4-4860-87fc-90c039a7ac97.png" alt="Django" width="50" height="50">
+<img src="https://user-images.githubusercontent.com/108957679/221864708-b48e978b-148d-4d1f-a315-d8df9ac24d7a.png" alt="React" width="50" height="50">
+
 
 
 
