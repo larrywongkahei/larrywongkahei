@@ -6,15 +6,18 @@ Programming Languages: Python, JavaScript, Java
 Frameworks and Libraries: React, Django, Flask, Node.js, Spring
 DataBase: MongoDB, PostgreSQL, SQLite
 
+<img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" width="50" height="50">![image](https://user-images.githubusercontent.com/108957679/221861950-817a5628-a818-40fd-a2a4-58d361cc1b5a.png)
+
+
 ## Projects (Here are some of the projects I am working on:
 
 ### `The TreeHole`
-A web application build with React Frontend and Django Backend that allows users to release emotions and stress. Press [Me](https://larrywongkahei.github.io/TheTreeHole/)[![Twitter] to Redirect
+A web application build with React Frontend and Django Backend that allows users to release emotions and stress. Press [Me](https://larrywongkahei.github.io/TheTreeHole/) to Redirect
 
 ### Tools
 * Javascript
 * React
-* Python <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" width="30" height="30">
+* Python
 * Django
 * SQLite
 * Tailwind CSS
