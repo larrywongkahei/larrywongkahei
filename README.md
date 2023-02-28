@@ -41,8 +41,8 @@ A web application build with React Frontend and Django Backend that allows users
 
 ### Redirect
 <p align="center">
-[To the page](https://larrywongkahei.github.io/TheTreeHole/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[To the FrontEnd Repo](https://github.com/larrywongkahei/TheTreeHole)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[To the BackEnd repo](https://github.com/larrywongkahei/TheTreeHoleBackend)
- </p>
+ <a href="https://larrywongkahei.github.io/TheTreeHole/">To the page</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/larrywongkahei/TheTreeHole">To the FrontEnd Repo</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/larrywongkahei/TheTreeHoleBackend">To the BackEnd repo</a>
+</p>
 
 
 ### Tools
