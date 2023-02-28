@@ -39,7 +39,7 @@ Here are some of the projects I am working on:
 
 ## The TreeHole
 
-A web application build with React Frontend and Django Backend that allows users to release emotions and stress. 
+A full-stack web application build with React Frontend and Django Backend that allows users to release emotions and stress. 
 
 ### Redirect
 
@@ -47,21 +47,34 @@ A web application build with React Frontend and Django Backend that allows users
 
 ## The Calorie Counter
 
-A web application build with React FrontEnd and Spring Backend that allows users to track the Calories along with Protein, Sugar, Carbohydrates and fat intake by recording all of the food you eat in a day, users could also use the barcode scanner to check the amount of elements contains in the food or drink.
+A full-stack web application build with React FrontEnd and Spring BackEnd that allows users to track the Calories along with Protein, Sugar, Carbohydrates and fat intake by recording all of the food you eat in a day, users could also use the barcode scanner to check the amount of elements contains in the food or drink.
+
+### Collaborators
+
+* <a href="https://github.com/ljones-11">ljones-11</a>
+* <a href="https://github.com/mwmarszalek">mwmarszalek</a>
+* <a href="https://github.com/ajdpatterson">ajdpatterson</a>
 
 ### Redirect
 
 <a href="https://github.com/larrywongkahei/MacrOS">To the FrontEnd Repo</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/mwmarszalek/MacrOS_backend">To the BackEnd repo</a>
 
-## Projects 
+# Projects 
 Here are some of the projects I've worked on:
 
-### `My Gym App`
-### Tools :
-* Flask
-* PSQL
-* HTML
-* CSS
+## BeeCareful
+
+A full-stack web application built with React FrontEnd and Express BackEnd that allows users to manage their apiaries and colonies.
+
+### Collaborators
+
+* <a href="https://github.com/mwmarszalek">mwmarszalek</a>
+* <a href="https://github.com/ajdpatterson">ajdpatterson</a>
+* <a href="https://github.com/jomonty">jomonty</a>
+
+### Redirect
+
+<a href="https://github.com/jomonty/javascript_project_beeCareful">To the repo</a>
 
 ### Feature
 
@@ -69,9 +82,9 @@ Here are some of the projects I've worked on:
 
 A E-commence web application built with React that allows users to add items to the bucket and checkout.
 
-## Collaborators
+### Collaborators
 
-<a href="https://github.com/ljones-11">ljones-11</a>
+* <a href="https://github.com/ljones-11">ljones-11</a>
 
 ### Redirect
 
