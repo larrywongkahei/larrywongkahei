@@ -3,7 +3,7 @@ I'm a software developer currently enrolled in a professional software developme
 
 ## To get intouch with me
 <p align="center">
-  [<img src="https://user-images.githubusercontent.com/108957679/221887694-b4e4f55f-3df7-45e3-a062-aaee5095e034.png" width="50" height="50">](https://www.instagram.com/heiyeungyeung520/)
+  [<img src="https://user-images.githubusercontent.com/108957679/221887694-b4e4f55f-3df7-45e3-a062-aaee5095e034.png" width="50" height="50">]https://www.instagram.com/heiyeungyeung520/
 
 </p>
 
