@@ -33,9 +33,9 @@ I'm a software developer currently enrolled in a professional software developme
 
 
 
-## Projects (Here are some of the projects I am working on:
+# Projects (Here are some of the projects I am working on:
 
-# The TreeHole
+## The TreeHole
 
 ### Brief Introduction
 
