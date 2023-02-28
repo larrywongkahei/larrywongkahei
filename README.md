@@ -37,10 +37,18 @@ I'm a software developer currently enrolled in a professional software developme
 
 ### `The TreeHole`
 
+### Brief Introduction
+
 A web application build with React Frontend and Django Backend that allows users to release emotions and stress. 
 
- ### Reditect
-<a href="https://larrywongkahei.github.io/TheTreeHole/">To the page</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/larrywongkahei/TheTreeHole">To the FrontEnd Repo</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/larrywongkahei/TheTreeHoleBackend">To the BackEnd repo</a>
+### Feature
+* edit profile
+* Add titles to favourite
+* Check all the favourite story
+* Choose to post private story and public story
+* Interact with comments by pressing the Like, Love and Dislike button
+* Check all the private and public stories the user posted
+
 
 ### Tools
 * Javascript
@@ -50,10 +58,20 @@ A web application build with React Frontend and Django Backend that allows users
 * SQLite
 * Tailwind CSS
 
+### Redirect
+<a href="https://larrywongkahei.github.io/TheTreeHole/">To the page</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/larrywongkahei/TheTreeHole">To the FrontEnd Repo</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/larrywongkahei/TheTreeHoleBackend">To the BackEnd repo</a>
+
+### `The Calorie Counter`
+
+### Brief Introduction
+
+A web application build with React FrontEnd and Spring Backend that allows users to track the Calories along with Protein, Sugar, Carbohydrates and fat intake by recording all of the food you eat in a day, users could also use the barcode scanner to check the amount of elements contains in the food or drink.
+
+### Redirect
+
 ## Projects (Here are some of the projects I've worked on:
 
-### Project 1
-`My Gym App`
+### `My Gym App`
 ### Tools :
 * Flask
 * PSQL
