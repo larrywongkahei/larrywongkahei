@@ -14,7 +14,7 @@ A web application build with React Frontend and Django Backend that allows users
 ### Tools
 * Javascript
 * React
-* Python
+* Python <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" width="30" height="30">
 * Django
 * SQLite
 * Tailwind CSS
