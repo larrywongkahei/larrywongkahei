@@ -6,7 +6,7 @@ Programming Languages: Python, JavaScript, Java
 Frameworks and Libraries: React, Django, Flask, Node.js, Spring
 DataBase: MongoDB, PostgreSQL, SQLite
 
-<img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" width="50" height="50">![image](https://user-images.githubusercontent.com/108957679/221861950-817a5628-a818-40fd-a2a4-58d361cc1b5a.png)
+<img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" width="50" height="50"><img src="https://user-images.githubusercontent.com/108957679/221861950-817a5628-a818-40fd-a2a4-58d361cc1b5a.png" alt=Javascript width="50" height="50">
 
 
 ## Projects (Here are some of the projects I am working on:
