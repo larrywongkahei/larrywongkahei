@@ -14,7 +14,11 @@ Frameworks and Libraries: React, Django, Flask, Node.js, Spring
 DataBase: MongoDB, PostgreSQL, SQLite
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/108957679/221865912-ec4de733-7049-4e94-874a-d1f2e3e5bcf7.png" alt="MongoDB" width="70" heigh="70">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://user-images.githubusercontent.com/108957679/221866158-23f3ad92-d23b-436f-b6a9-9894816f0d14.png" alt="PostgreSQL" width="70" height="70">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://user-images.githubusercontent.com/108957679/221886969-9e78aac7-9d9b-4672-be7d-dff9f9f726c1.png" alt="SQLite" width="70" height="70"></p>
+<img src="https://user-images.githubusercontent.com/108957679/221865912-ec4de733-7049-4e94-874a-d1f2e3e5bcf7.png" alt="MongoDB" width="70" heigh="70">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://user-images.githubusercontent.com/108957679/221866158-23f3ad92-d23b-436f-b6a9-9894816f0d14.png" alt="PostgreSQL" width="70" height="70">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://user-images.githubusercontent.com/108957679/221887379-53d0f887-a97e-4366-9e33-92fe75bba61c.png" alt="SQLite" width="70" height="70"></p>
+
+
+[<img src="https://user-images.githubusercontent.com/108957679/221887694-b4e4f55f-3df7-45e3-a062-aaee5095e034.png" width="30" height="30">](http://google.com)
+
 
 
 
