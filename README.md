@@ -1,7 +1,20 @@
-# Hi there 👋
+# Hi there, I'm Wong Ka Hei, also known as Larry 👋
+I'm a software developer currently enrolled in a professional software development course. I'm passionate about building applications that make a difference in people's lives.
 
-### A nerd that take learning as habbit.
+## Skills and Technologies
+Programming Languages: Python, JavaScript, Java
+Frameworks and Libraries: React, Django, Flask, Node.js, Spring
 
+## Projects
+Here are some of the projects I've worked on:
+
+Project 1: The TreeHole Press [Me] To Redirect('https://larrywongkahei.github.io/TheTreeHole/')
+Project 2: A RESTful API built with Node.js and Express that allows users to search for recipes based on dietary restrictions.
+Project 3: A Java application built with Spring that helps small businesses manage their inventory.
+Get in touch
+Email: [your email address]
+LinkedIn: [your LinkedIn profile URL]
+Feel free to reach out to me if you'd like to collaborate on a project or just chat about software development!
 <!--
 **larrywongkahei/larrywongkahei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
