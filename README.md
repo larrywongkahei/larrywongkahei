@@ -41,7 +41,7 @@ I'm a software developer currently enrolled in a professional software developme
 
 A web application build with React Frontend and Django Backend that allows users to release emotions and stress. 
 
-### Feature
+### Features
 * edit profile
 * Add titles to favourite
 * Check all the favourite story
