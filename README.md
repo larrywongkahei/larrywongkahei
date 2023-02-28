@@ -8,11 +8,11 @@ Programming Languages: Python, JavaScript, Java, HTML (CSS)
 
 Frameworks and Libraries: React, Django, Flask, Node.js, Spring
 
-<img src="https://user-images.githubusercontent.com/108957679/221864708-b48e978b-148d-4d1f-a315-d8df9ac24d7a.png" alt="React" width="50" height="50"><img src="https://user-images.githubusercontent.com/108957679/221864451-0cae0932-4ab4-4860-87fc-90c039a7ac97.png" alt="Django" width="50" height="50"><img src="https://user-images.githubusercontent.com/108957679/221864279-fa907251-bad8-465a-b682-537dc92940dc.png" alt="Flask" width="50" height="50"><img src="https://user-images.githubusercontent.com/108957679/221865160-9ac91128-a0f0-4b64-ace9-d5b6fcff1f9a.png" alt="Node.js" width="50" height="50"><img src="https://user-images.githubusercontent.com/108957679/221865651-73fb0931-6ea6-4ca6-bb6c-22db0bfaa40c.png" alt="Spring" width="50" height="50">
+<img src="https://user-images.githubusercontent.com/108957679/221864708-b48e978b-148d-4d1f-a315-d8df9ac24d7a.png" alt="React" width="50" height="50">               <img src="https://user-images.githubusercontent.com/108957679/221864451-0cae0932-4ab4-4860-87fc-90c039a7ac97.png" alt="Django" width="50" height="50">                <img src="https://user-images.githubusercontent.com/108957679/221864279-fa907251-bad8-465a-b682-537dc92940dc.png" alt="Flask" width="50" height="50">               <img src="https://user-images.githubusercontent.com/108957679/221865160-9ac91128-a0f0-4b64-ace9-d5b6fcff1f9a.png" alt="Node.js" width="50" height="50">               <img src="https://user-images.githubusercontent.com/108957679/221865651-73fb0931-6ea6-4ca6-bb6c-22db0bfaa40c.png" alt="Spring" width="50" height="50">
 
 DataBase: MongoDB, PostgreSQL, SQLite
 
-<img src="https://user-images.githubusercontent.com/108957679/221865912-ec4de733-7049-4e94-874a-d1f2e3e5bcf7.png" alt="MongoDB" width="50" heigh="50"><img src="https://user-images.githubusercontent.com/108957679/221866158-23f3ad92-d23b-436f-b6a9-9894816f0d14.png" alt="PostgreSQL" width="50" height="50"><img src="https://user-images.githubusercontent.com/108957679/221869680-38c537ac-0f41-491c-a47f-0a09e8c2817f.png" alt="SQLite" width="50" height="50">
+<img src="https://user-images.githubusercontent.com/108957679/221865912-ec4de733-7049-4e94-874a-d1f2e3e5bcf7.png" alt="MongoDB" width="50" heigh="50">                <img src="https://user-images.githubusercontent.com/108957679/221866158-23f3ad92-d23b-436f-b6a9-9894816f0d14.png" alt="PostgreSQL" width="50" height="50">                <img src="https://user-images.githubusercontent.com/108957679/221869680-38c537ac-0f41-491c-a47f-0a09e8c2817f.png" alt="SQLite" width="50" height="50">
 
 
 
