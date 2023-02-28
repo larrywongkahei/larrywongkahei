@@ -78,7 +78,7 @@ A full-stack web application built with React FrontEnd and Express BackEnd that 
 
 ### Feature
 
-## l&l Coffee Shop
+## l & l Coffee Shop
 
 A E-commence web application built with React that allows users to add items to the bucket and checkout.
 
