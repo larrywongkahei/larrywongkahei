@@ -3,10 +3,7 @@ I'm a software developer currently enrolled in a professional software developme
 
 ## Skills and Technologies
 Programming Languages: Python, JavaScript, Java, HTML (CSS)
-<img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" width="50" height="50"><img src="https://user-images.githubusercontent.com/108957679/221861950-817a5628-a818-40fd-a2a4-58d361cc1b5a.png" alt=Javascript width="50" height="50"><img src="https://user-images.githubusercontent.com/108957679/221865391-3c5aad3e-7aef-4459-8c51-48655d28c4ca.png" alt="Java" width="50" height="50"><img src="https://user-images.githubusercontent.com/108957679/221871096-ef04d1ee-fc3a-46da-ad20-0385dab38988.png" alt="HTML" width="50" height="50"><img src="https://user-images.githubusercontent.com/108957679/221871403-bbd00d6e-d4b1-4798-917a-c8963b3bc316.png" alt="CSS" width="50" height="50">
-
-
-<img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" width="50" height="50"><img src="https://user-images.githubusercontent.com/108957679/221861950-817a5628-a818-40fd-a2a4-58d361cc1b5a.png" alt=Javascript width="50" height="50"><img src="https://user-images.githubusercontent.com/108957679/221865391-3c5aad3e-7aef-4459-8c51-48655d28c4ca.png" alt="Java" width="50" height="50"><img src="
+<img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" width="50" height="50">       <img src="https://user-images.githubusercontent.com/108957679/221861950-817a5628-a818-40fd-a2a4-58d361cc1b5a.png" alt=Javascript width="50" height="50">        <img src="https://user-images.githubusercontent.com/108957679/221865391-3c5aad3e-7aef-4459-8c51-48655d28c4ca.png" alt="Java" width="50" height="50">        <img src="https://user-images.githubusercontent.com/108957679/221871096-ef04d1ee-fc3a-46da-ad20-0385dab38988.png" alt="HTML" width="50" height="50">        <img src="https://user-images.githubusercontent.com/108957679/221871403-bbd00d6e-d4b1-4798-917a-c8963b3bc316.png" alt="CSS" width="50" height="50">
 
 Frameworks and Libraries: React, Django, Flask, Node.js, Spring
 
