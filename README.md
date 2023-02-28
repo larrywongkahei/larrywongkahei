@@ -42,15 +42,16 @@ Here are some of the projects I am working on:
 A web application build with React Frontend and Django Backend that allows users to release emotions and stress. 
 
 ### Redirect
+
 <a href="https://larrywongkahei.github.io/TheTreeHole/">To the page</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/larrywongkahei/TheTreeHole">To the FrontEnd Repo</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/larrywongkahei/TheTreeHoleBackend">To the BackEnd repo</a>
 
-### `The Calorie Counter`
-
-### Brief Introduction
+## The Calorie Counter
 
 A web application build with React FrontEnd and Spring Backend that allows users to track the Calories along with Protein, Sugar, Carbohydrates and fat intake by recording all of the food you eat in a day, users could also use the barcode scanner to check the amount of elements contains in the food or drink.
 
 ### Redirect
+
+<a href="https://github.com/larrywongkahei/MacrOS">To the FrontEnd Repo</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/mwmarszalek/MacrOS_backend">To the BackEnd repo</a>
 
 ## Projects (Here are some of the projects I've worked on:
 
