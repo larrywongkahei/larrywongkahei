@@ -53,7 +53,8 @@ A web application build with React FrontEnd and Spring Backend that allows users
 
 <a href="https://github.com/larrywongkahei/MacrOS">To the FrontEnd Repo</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/mwmarszalek/MacrOS_backend">To the BackEnd repo</a>
 
-## Projects (Here are some of the projects I've worked on:
+## Projects 
+Here are some of the projects I've worked on:
 
 ### `My Gym App`
 ### Tools :
@@ -64,14 +65,18 @@ A web application build with React FrontEnd and Spring Backend that allows users
 
 ### Feature
 
-### Project 2
-A RESTful API built with Node.js and Express that allows users to search for recipes based on dietary restrictions.
-* Project 3: A Java application built with Spring that helps small businesses manage their inventory.
-Get in touch
-Email: [your email address]
-LinkedIn: [your LinkedIn profile URL]
-Feel free to reach out to me if you'd like to collaborate on a project or just chat about software development!
-<!--
+## l&l Coffee Shop
+
+A E-commence web application built with React that allows users to add items to the bucket and checkout.
+
+## Collaborators
+
+<a href="https://github.com/ljones-11">ljones-11</a>
+
+### Redirect
+
+<a href="http://l-and-l-coffee-shop.s3-website.eu-west-2.amazonaws.com/">To the page</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/larrywongkahei/e-commerce-lab">To The Repo</a>
+
 **larrywongkahei/larrywongkahei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
