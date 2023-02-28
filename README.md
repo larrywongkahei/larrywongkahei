@@ -2,10 +2,10 @@
 I'm a software developer currently enrolled in a professional software development course `CodeClan`. I'm passionate about building applications that make a difference in people's lives.
 
 ## To get intouch with me
-<p>
+<p align="center">
 <a href="https://www.instagram.com/heiyeungyeung520/">
 <img src="https://user-images.githubusercontent.com/108957679/221887694-b4e4f55f-3df7-45e3-a062-aaee5095e034.png" alt="instagram" width="50" height="50" />
-</a>
+</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/ka-hei-wong-429b66257/">
 <img src="https://user-images.githubusercontent.com/108957679/221944597-b4a5923d-acdb-4dcb-8a89-d7c2b0ffb814.png" alt="Linkedin" width="50" height="50"/>
  </a>
