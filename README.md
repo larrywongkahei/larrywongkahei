@@ -39,12 +39,14 @@ I'm a software developer currently enrolled in a professional software developme
 
 A web application build with React Frontend and Django Backend that allows users to release emotions and stress. 
 
-### Redirect
 <p align="center">
- <a href="https://larrywongkahei.github.io/TheTreeHole/">To the page</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/larrywongkahei/TheTreeHole">To the FrontEnd Repo</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/larrywongkahei/TheTreeHoleBackend">To the BackEnd repo</a>
+ ### Reditect
+ #### To the page
+ <a href="https://larrywongkahei.github.io/TheTreeHole/">
+<!--  <a href="https://larrywongkahei.github.io/TheTreeHole/">To the page</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/larrywongkahei/TheTreeHole">To the FrontEnd Repo</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/larrywongkahei/TheTreeHoleBackend">To the BackEnd repo</a>
 </p>
 
-
+ -->
 ### Tools
 * Javascript
 * React
