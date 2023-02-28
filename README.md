@@ -8,7 +8,8 @@ Frameworks and Libraries: React, Django, Flask, Node.js, Spring
 ## Projects
 Here are some of the projects I've worked on:
 
-* Project 1: The TreeHole Press [Me](https://larrywongkahei.github.io/TheTreeHole/) To Redirect.
+### Project 1 
+A web application built with React and Django that helps users release emotions.`The TreeHole` Press [Me](https://larrywongkahei.github.io/TheTreeHole/) To Redirect.
 * Project 2: A RESTful API built with Node.js and Express that allows users to search for recipes based on dietary restrictions.
 * Project 3: A Java application built with Spring that helps small businesses manage their inventory.
 Get in touch
