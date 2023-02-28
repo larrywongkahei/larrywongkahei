@@ -36,9 +36,12 @@ I'm a software developer currently enrolled in a professional software developme
 ## Projects (Here are some of the projects I am working on:
 
 ### `The TreeHole`
-### Redirect
-[To the page](https://larrywongkahei.github.io/TheTreeHole/)[To the FrontEnd Repo](https://github.com/larrywongkahei/TheTreeHole)[To the BackEnd repo](https://github.com/larrywongkahei/TheTreeHoleBackend)
+
 A web application build with React Frontend and Django Backend that allows users to release emotions and stress. 
+
+### Redirect
+[To the page](https://larrywongkahei.github.io/TheTreeHole/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[To the FrontEnd Repo](https://github.com/larrywongkahei/TheTreeHole)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[To the BackEnd repo](https://github.com/larrywongkahei/TheTreeHoleBackend)
+
 
 ### Tools
 * Javascript
