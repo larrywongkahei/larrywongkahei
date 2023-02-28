@@ -1,6 +1,12 @@
 # Hi there, I'm Wong Ka Hei, also known as Larry 👋
 I'm a software developer currently enrolled in a professional software development course `CodeClan`. I'm passionate about building applications that make a difference in people's lives.
 
+## To get intouch with me
+<p align="center">
+  [<img src="https://user-images.githubusercontent.com/108957679/221887694-b4e4f55f-3df7-45e3-a062-aaee5095e034.png" width="50" height="50">](http://google.com](https://www.instagram.com/heiyeungyeung520/)
+
+</p>
+
 ## Skills and Technologies
 Programming Languages: Python, JavaScript, Java, HTML (CSS)
 
@@ -17,7 +23,6 @@ DataBase: MongoDB, PostgreSQL, SQLite
 <img src="https://user-images.githubusercontent.com/108957679/221865912-ec4de733-7049-4e94-874a-d1f2e3e5bcf7.png" alt="MongoDB" width="70" heigh="70">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://user-images.githubusercontent.com/108957679/221866158-23f3ad92-d23b-436f-b6a9-9894816f0d14.png" alt="PostgreSQL" width="70" height="70">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://user-images.githubusercontent.com/108957679/221887379-53d0f887-a97e-4366-9e33-92fe75bba61c.png" alt="SQLite" width="70" height="70"></p>
 
 
-[<img src="https://user-images.githubusercontent.com/108957679/221887694-b4e4f55f-3df7-45e3-a062-aaee5095e034.png" width="30" height="30">](http://google.com)
 
 
 
