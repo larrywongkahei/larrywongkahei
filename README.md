@@ -37,6 +37,14 @@ I'm a software developer currently enrolled in a professional software developme
 
 Here are some of the projects I am working on:
 
+## The HayStore
+
+A E-commerce webapp built with C#, ASP.Net Razor page.
+
+### Redirect
+
+<a href="https://haystore.herokuapp.com/">To the page</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/larrywongkahei/E-Commerce">To the Github Repo</a>
+
 ## The TreeHole
 
 A full-stack web application build with React Frontend and Django Backend that allows users to release emotions and stress. 
