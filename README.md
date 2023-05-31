@@ -35,7 +35,15 @@ I'm a software developer currently enrolled in a professional software developme
 
 # Projects
 
-Here are some of the projects I am working on:
+Here are some of the projects I have worked on:
+
+## The SecretChat
+
+A real time chat mobile application built with C#, Maui, MongoDB
+
+### Redirect
+
+<a href="https://github.com/larrywongkahei/SecretChat">To the Github Repo</a>
 
 ## The HayStore
 
