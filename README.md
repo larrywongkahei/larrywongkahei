@@ -37,6 +37,22 @@ I'm a software developer currently enrolled in a professional software developme
 
 Here are some of the projects I have worked on:
 
+## PDFConverter
+
+An webapplication that allow user to convert any type of files into PDF format (Only Image format works now)(On-going)
+
+### Redirect
+
+<a href="https://github.com/larrywongkahei/PDFConverter">To the Github Repo</a>
+
+## JsonMaker
+
+An webapplication to let user build their own JsonData, it is built with React frontend and C# backend
+
+### Redirect
+
+<a href="https://github.com/larrywongkahei/JsonDataMaker">To the Github Repo</a>
+
 ## The SecretChat
 
 A real time chat mobile application built with C#, Maui, MongoDB
@@ -92,16 +108,4 @@ A full-stack web application built with React FrontEnd and Express BackEnd that 
 
 <a href="https://github.com/jomonty/javascript_project_beeCareful">To the repo</a>
 
-### Feature
 
-## l & l Coffee Shop
-
-A E-commence web application built with React that allows users to add items to the bucket and checkout.
-
-### Collaborators
-
-* <a href="https://github.com/ljones-11">ljones-11</a>
-
-### Redirect
-
-<a href="http://l-and-l-coffee-shop.s3-website.eu-west-2.amazonaws.com/">To the page</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/larrywongkahei/e-commerce-lab">To The Repo</a>
