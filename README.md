@@ -1,5 +1,5 @@
 # Hi there, I'm Wong Ka Hei, also known as Larry 👋
-I'm a software developer currently enrolled in a professional software development course `CodeClan`. I'm passionate about building applications that make a difference in people's lives.
+I'm a software developer with an passionate about building applications that make a difference in people's lives.
 
 ## To get intouch with me
 <p align="center">
