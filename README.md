@@ -38,6 +38,16 @@ I have experience in building full stack web applications and mobile application
 
 Here are some of the projects I have worked on:
 
+## Hay's Workshop
+
+HayWorkshop is a platform for me to store all projects that I think could be used in real life.
+
+### Redirect
+
+<a href="https://larrywongkahei.github.io/HayWorkshop/">To the page</a> 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/larrywongkahei/HayWorkshop">To Github Repo</a>
+
 ## Delivery mobile application
 
 An mobile application built with React Native and Express Node.js ( Fully functional )
