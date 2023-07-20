@@ -73,6 +73,7 @@ An webapplication to let user build their own JsonData, it is built with React f
 
 ### Redirect
 
+<a href="https://larrywongkahei.github.io/JsonDataMaker/">To the page</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://github.com/larrywongkahei/JsonDataMaker">To the Github Repo</a>
 
 ## The SecretChat
