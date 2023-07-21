@@ -1,6 +1,6 @@
 # Hi there, I'm Wong Ka Hei, also known as Larry 👋
 I'm a software developer with an passionate about building applications that make a difference in people's lives.
-I have experience in building full stack web applications and mobile applications alone and in a team.
+I have extensive experience in building full stack web applications and mobile applications alone and in a team.
 
 ## To get intouch with me
 <p align="center">
