@@ -18,7 +18,8 @@ I have extensive experience in building full stack web applications and mobile a
 
 <p align="center">
 <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" width="70" height="70">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://user-images.githubusercontent.com/108957679/221861950-817a5628-a818-40fd-a2a4-58d361cc1b5a.png" alt=Javascript width="70" height="70">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://user-images.githubusercontent.com/108957679/221865391-3c5aad3e-7aef-4459-8c51-48655d28c4ca.png" alt="Java" width="70" height="70">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png" alt="C#" width="70" height="70" size="120"/>
- <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" alt="TypeScript" width="70" height="70">
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+ <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" alt="TypeScript" width="50" height="50">
 </p>
 
 ### Frameworks and Libraries: React, Django, Flask, Node.js, Spring, TailwindCSS, .Net Core
