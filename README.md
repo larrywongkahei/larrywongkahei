@@ -83,7 +83,7 @@ A E-commerce webapp built with C#, ASP.Net Razor page.
 
 ### Redirect
 
-<a href="https://haystore.herokuapp.com/">To the page</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/larrywongkahei/E-Commerce">To the Github Repo</a>
+<a href="https://github.com/larrywongkahei/E-Commerce">To the Github Repo</a>
 
 ## The TreeHole
 
