@@ -107,9 +107,6 @@ A full-stack web application build with React FrontEnd and Spring BackEnd that a
 
 <a href="https://github.com/larrywongkahei/MacrOS">To the FrontEnd Repo</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/mwmarszalek/MacrOS_backend">To the BackEnd repo</a>
 
-# Projects 
-Here are some of the projects I've worked on:
-
 ## BeeCareful
 
 A full-stack web application built with React FrontEnd and Express BackEnd that allows users to manage their apiaries and colonies.
