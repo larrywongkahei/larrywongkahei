@@ -51,16 +51,6 @@ HayWorkshop is a platform for me to store all projects that I think could be use
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://github.com/larrywongkahei/HayWorkshop">To Github Repo</a>
 
-## Delivery mobile application
-
-An mobile application built with React Native and Express Node.js ( Fully functional )
-
-### Redirect
-
-<a href="https://github.com/larrywongkahei/DeliveryAppFrontEnd">To Frontend Github Repo</a> 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://github.com/larrywongkahei/DeliveryAppBackEnd">To Backend Github Repo</a>
-
 ## PDFConverter
 
 An webapplication that allow user to convert any type of files into PDF format (Only Image format works now)(On-going)
