@@ -91,7 +91,7 @@ A full-stack web application build with React Frontend and Django Backend that a
 
 ### Redirect
 
-<a href="https://larrywongkahei.github.io/TheTreeHole/">To the page</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/larrywongkahei/TheTreeHole">To the FrontEnd Repo</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/larrywongkahei/TheTreeHoleBackend">To the BackEnd repo</a>
+<a href="https://github.com/larrywongkahei/TheTreeHole">To the FrontEnd Repo</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/larrywongkahei/TheTreeHoleBackend">To the BackEnd repo</a>
 
 ## The Calorie Counter
 
